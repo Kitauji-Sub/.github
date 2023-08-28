@@ -1,5 +1,4 @@
 # KitaujiSub
-Introduce
 简体中文 | [繁體中文](https://github.com/Kitauji-Sub/.github/blob/main/profile/README_TC.md) | [English](https://github.com/Kitauji-Sub/.github/blob/main/profile/README_EN.md)
 # 关于 北宇治字幕组
 我们是北宇治字幕组，是由一群喜欢动画的人们组成的非盈利字幕组。   
