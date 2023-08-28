@@ -1,4 +1,4 @@
-[简体中文](README.md) | [繁體中文](README_TC.md) | English
+[简体中文](https://github.com/Kitauji-Sub/.github/blob/main/profile/README.md) | [繁體中文](https://github.com/Kitauji-Sub/.github/blob/main/profile/README_TC.md) | English
 # About KitaujiSub
 We are KitaujiSub, a non-profit subtitle group composed of a group of people who enjoy animes. 
 
