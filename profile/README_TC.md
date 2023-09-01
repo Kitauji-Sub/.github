@@ -1,6 +1,7 @@
 [简体中文](https://github.com/Kitauji-Sub/.github/blob/main/profile/README.md) | 繁體中文 | [English](https://github.com/Kitauji-Sub/.github/blob/main/profile/README_EN.md)
 # 關於 北宇治字幕組
 我們是北宇治字幕組，是由一群喜歡動畫的人們組成的非盈利字幕組。 
+
 往期及未來的字幕製作可以查看 [項目表](https://github.com/orgs/Kitauji-Sub/projects/2)
 
 【[官方Blog(建設中)](https://blog.kitauji.jp/)】   
