@@ -4,5 +4,7 @@
 
 往期及未来的字幕制作可以查看 [项目表](https://github.com/orgs/Kitauji-Sub/projects/2) 。
 
+点此 [下载字幕](https://github.com/Kitauji-Sub/Subtitles)。
+
 【[官方Blog(建设中)](https://blog.kitauji.jp)】   
-【[北宇治动画研(B站合作账号)](https://space.bilibili.com/3493115428079755)】   
+【[北宇治字幕组](https://space.bilibili.com/3493115428079755)】   
