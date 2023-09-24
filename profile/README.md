@@ -7,4 +7,4 @@
 点此 [下载字幕](https://github.com/Kitauji-Sub/Subtitles)。
 
 【[官方Blog(建设中)](https://blog.kitauji.jp)】   
-【[北宇治字幕组](https://space.bilibili.com/3493115428079755)】   
+【[北宇治字幕组(BiliBili)](https://space.bilibili.com/3493115428079755)】   
