@@ -1,4 +1,4 @@
-[簡體中文](README.md) | 繁體中文
+[简体中文](README.md) | **繁體中文**
 
 # 關於 北宇治字幕組
 
@@ -19,13 +19,13 @@
 
 交流群組：[QQ 群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=weGDsYABreoexFlpa-C6_65nS7G_Ahkd&authKey=PP0WvvIWmtNHpeUPVlLW%2FvKspwOJWjKTr1EyDEEhPrt0zc1kyKgIdx3Ec9yped%2BJ&noverify=0&group_code=884738299) | [Telegram 頻道](https://t.me/KitaUji)
 
-字幕報錯可於交流群組找管理員，也可以提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 或者 Pull request。
+字幕報錯可於交流群組找管理員，也可以提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 或者 pull request。
 
-- Subtitle Staff 未標註**繁化**的字幕，均為[繁化姬](https://zhconvert.org/)繁體化或台灣化，且未經過人工複查。
+- Subtitle Staff 未標註**繁化**的字幕，均為 [繁化姬](https://zhconvert.org/) 繁體化或台灣化，且未經過人工複查。
 
-- 如有繁體報錯，也請於交流群組向管理員報錯或 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 和 Pull request。
+- 如有繁體報錯，也請於交流群組向管理員報錯或提交 [issue](https://github.com/Kitauji-Sub/Subtitles/issues) 和 pull request。
 
-本組的作品會發布於 [BiliBili](https://space.bilibili.com/3546697424702177) 的組號上，歡迎點擊關注。
+本組的作品會發布於 [bilibili](https://space.bilibili.com/3546697424702177) 的組號上，歡迎點擊關注。
 
 
 
